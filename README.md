@@ -19,12 +19,12 @@ The visualization helps answer questions such as:
 
 ## Key Features & Insights
 
-✔ **Regional dish distribution** with comparative analysis
-✔ **Flavor profile breakdown** using pie/stacked charts
-✔ **Diet type classification:** Vegetarian vs Non-Vegetarian
-✔ **Course-wise insights:** Snacks, main course, desserts, beverages
-✔ **State-level geographic visualization**
-✔ Interactive filters for user-driven exploration
+* **Regional dish distribution** with comparative analysis
+* **Flavor profile breakdown** using pie/stacked charts
+* **Diet type classification:** Vegetarian vs Non-Vegetarian
+* **Course-wise insights:** Snacks, main course, desserts, beverages
+* **State-level geographic visualization**
+* Interactive filters for user-driven exploration
 
 
 ## 🛠️ Tools & Technologies
@@ -41,10 +41,10 @@ The visualization helps answer questions such as:
 
 ## How to View / Use
 
-1️⃣ Click the Tableau Public link above
-2️⃣ Interact with filters to explore cuisine segments
-3️⃣ Use the map to view dish diversity across states
-4️⃣ Download or fork this repository if you want to review dataset or screenshots
+*1️⃣ Click the Tableau Public link above
+*2️⃣ Interact with filters to explore cuisine segments
+*3️⃣ Use the map to view dish diversity across states
+*4️⃣ Download or fork this repository if you want to review dataset or screenshots
 
 
 ## ⭐ Support the Project
