@@ -41,10 +41,10 @@ The visualization helps answer questions such as:
 
 ## How to View / Use
 
-*1️⃣ Click the Tableau Public link above
-*2️⃣ Interact with filters to explore cuisine segments
-*3️⃣ Use the map to view dish diversity across states
-*4️⃣ Download or fork this repository if you want to review dataset or screenshots
+* Click the Tableau Public link above
+* Interact with filters to explore cuisine segments
+* Use the map to view dish diversity across states
+* Download or fork this repository if you want to review dataset or screenshots
 
 
 ## ⭐ Support the Project
