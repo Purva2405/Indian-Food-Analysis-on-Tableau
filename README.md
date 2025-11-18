@@ -27,7 +27,7 @@ The visualization helps answer questions such as:
 * Interactive filters for user-driven exploration
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Purpose                    | Tool               |
 | -------------------------- | ------------------ |
@@ -47,7 +47,7 @@ The visualization helps answer questions such as:
 * Download or fork this repository if you want to review dataset or screenshots
 
 
-## ⭐ Support the Project
+## Support the Project
 
 If you found this project interesting, you can support it by:
 
