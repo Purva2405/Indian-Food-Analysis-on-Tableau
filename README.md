@@ -26,7 +26,6 @@ The visualization helps answer questions such as:
 ✔ **State-level geographic visualization**
 ✔ Interactive filters for user-driven exploration
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -35,21 +34,6 @@ The visualization helps answer questions such as:
 | Data Visualization         | **Tableau Public** |
 | Dataset Format             | CSV       |
 | Repository & Documentation | GitHub             |
-
-## 📁 Repository Structure
-
-
-Indian-Food-Analysis/
-│
-├── data/
-│   └── indian_food_dataset.csv    
-│
-├── screenshots/
-│   ├── dashboard_overview.png
-│   └── dashboard_map.png
-│
-└── README.md
-
 
 ## Dashboard Preview
 
