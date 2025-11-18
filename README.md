@@ -37,7 +37,7 @@ The visualization helps answer questions such as:
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ## How to View / Use
 
